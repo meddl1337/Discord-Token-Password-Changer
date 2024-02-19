@@ -7,7 +7,7 @@
 
 ```python
 ┌──C:\Users\bhop3> -[~/enterprise]
-└─$ Updater.sln
+└─$ main.py
 
 ɤ fast & good gui
 ɤ Updatest Version of Chrome Version
