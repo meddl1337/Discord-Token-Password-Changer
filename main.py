@@ -5,6 +5,7 @@
 # you can skid, but don't sell you indian monkey
 
 import os
+from pystyle import *
 import tls_client, requests
 import ctypes
 import random
