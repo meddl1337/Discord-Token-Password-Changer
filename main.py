@@ -28,14 +28,14 @@ class xyzraid:
             Write.Print("~ Using Proxy", Colors.cyan_to_green, interval=0.03)
             proxy = self.get_proxy_list()
 
-            self.session = tls_client.Session(client_identifier = "chrome_122", random_tls_extension_order=True)
+            self.session = tls_client.Session(client_identifier = "chrome_120", random_tls_extension_order=True)
             self.session.proxies = {
                 "http": proxy,
                 "https": proxy
             }
         else:
             Write.Print("~ Using Proxyless", Colors.cyan_to_green, interval=0.03)
-            self.session = tls_client.Session(client_identifier = "chrome_122", random_tls_extension_order=True)
+            self.session = tls_client.Session(client_identifier = "chrome_120", random_tls_extension_order=True)
         # ---
         self.xyz_main()
     
@@ -94,13 +94,13 @@ Token loaded: {len(self.tokens)} | discord.gg/xyzshop
             "content-type": "application/json",
             "origin": "https://discord.com",
             "referer": "https://discord.com/",
-            'sec-ch-ua': '"Not?A_Brand";v="8", "Chromium";v="122"',
+            'sec-ch-ua': '"Not?A_Brand";v="8", "Chromium";v="120"',
             'sec-ch-ua-mobile': '?0',
             'sec-ch-ua-platform': '"Windows"',
             'sec-fetch-dest': 'empty',
             'sec-fetch-mode': 'cors',
             'sec-fetch-site': 'same-origin',
-            "user-agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+            "user-agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             "x-debug-options": "bugReporterEnabled",
             "x-discord-locale": "en-US",
             "x-discord-timezone": "America/New_York",
