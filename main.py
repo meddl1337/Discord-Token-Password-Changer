@@ -2,8 +2,6 @@
 # dev: bhop3
 # join discord.gg/xyzshop for more :)
 
-# you can skid, but don't sell you indian monkey
-
 import os
 from pystyle import *
 import tls_client, requests
