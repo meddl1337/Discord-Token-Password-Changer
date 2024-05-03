@@ -1,8 +1,6 @@
 ### 
 <h1 align="center">🕵️‍♂️ Can change passwords of a huge tokens File 🕵️‍♂️ NEWEST VERSION | WORKING </h>
 
-![BetterHandmadeGull-size_restricted]([https://cdn.discordapp.com/attachments/1189254955547230328/1209271660708896878/Bugs_Bunny-removebg-preview.png?ex=65e650ff&is=65d3dbff&hm=fe48d95eb32239141c97784ed55a8dfe58f7f605a9ab7566926a5e5969202c29&](https://imgs.search.brave.com/V6OndlBe9RPMOK-3xNizun9JProNXHG0HaimUGjZGWQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDEyMTAw/NjYzLnBuZw))
-
 # 👨🏻‍💻 About the Code
 
 ```python
